@@ -1,0 +1,27 @@
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
+3,37,57,,3,43,42,,SL1 MG_17_9_20,NV,,,Player is not in view
+3,43,44,,3,43,49,,SL1 MG_17_9_20,NC,,,Player is running during play
+3,43,49,,3,43,51,,SL1 MG_17_9_20,BC,B,B,Players tackle lightly
+3,44,19,,3,44,54,,SL1 MG_17_9_20,SL,,,Player is on sideline
+4,47,55,,4,48,3,,SL1 MG_17_9_20,NC,,,Player prepares for play
+4,48,3,,4,48,6,,SL1 MG_17_9_20,BC,U,B,Player grapples
+4,48,46,,4,48,52,,SL1 MG_17_9_20,NC,,,Player prepares for play
+4,48,52,,4,48,53,,SL1 MG_17_9_20,BC,U,B,Players shove
+4,49,28,,4,49,36,,SL1 MG_17_9_20,NC,,,Player prepares for play
+4,49,36,,4,49,38,,SL1 MG_17_9_20,BC,B,B,Players tackle
+4,49,36,,4,49,37,,SL1 MG_17_9_20,HC,H,H,Players headbutt
+4,50,10,,4,50,21,,SL1 MG_17_9_20,NC,,,Player prepares for play
+4,50,21,,4,50,23,,SL1 MG_17_9_20,BC,B,B,Players tackle
+4,50,59,,4,51,6,,SL1 MG_17_9_20,NC,,,Player prepares for play
+4,51,6,,4,51,8,,SL1 MG_17_9_20,BC,B,U,Players shove
+4,51,6,,4,51,7,,SL1 MG_17_9_20,HC,H,H,Players headbutt
+4,52,28,,5,7,50,,SL1 MG_17_9_20,SL,,,Player watches drills
+5,7,51,,5,8,13,,SL1 MG_17_9_20,NC,,,Player prepares for play
+5,8,14,,5,8,17,,SL1 MG_17_9_20,BC,U,B,Players grapple
+5,8,14,,5,8,15,,SL1 MG_17_9_20,HC,H,H,Players bang heads
+5,8,52,,5,10,9,,SL1 MG_17_9_20,SL,,,Player watches drills
+5,10,10,,5,13,8,,SL1 MG_17_9_20,NC,,,Player runs with no contact
+5,13,8,,5,13,10,,SL1 MG_17_9_20,BC,B,B,Players tackle
+5,13,44,,5,18,0,,SL1 MG_17_9_20,NC,,,Player runs with no contact
+5,18,1,,5,27,53,,SL1 MG_17_9_20,SL,,,Player watches drills

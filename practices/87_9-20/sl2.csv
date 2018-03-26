@@ -1,0 +1,31 @@
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
+3,46,16,,4,5,10,,SL2 TD_17_9_20,NV,,,White players do drills
+4,5,10,,4,5,2,,SL2 TD_17_9_20,NC,,,Player prepares for play
+4,5,36,,4,6,4,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,6,4,,4,6,13,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,6,29,,4,6,39,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,6,55,,4,7,7,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,7,23,,4,7,30,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,7,45,,4,7,55,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,8,13,,4,8,24,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,8,39,,4,8,47,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,8,59,,4,9,14,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,9,29,,4,9,42,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,9,56,,4,10,6,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,10,12,,4,10,22,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,10,43,,4,10,53,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,11,8,,4,11,14,,SL2 TD_17_9_20,NC,,,Player prepares for play
+4,11,14,,4,11,16,,SL2 TD_17_9_20,BC,B,U,Player is flung down
+4,11,14,,4,11,15,,SL2 TD_17_9_20,HC,H,U,Player is in hold
+4,11,33,,4,11,36,,SL2 TD_17_9_20,NC,,,Player prepares for play
+4,11,36,,4,11,39,,SL2 TD_17_9_20,BC,B,U,Player is tackled
+4,12,2,,4,12,12,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,13,18,,4,13,32,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,13,45,,4,13,50,,SL2 TD_17_9_20,NC,,,Player prepares for play
+4,13,51,,4,13,52,,SL2 TD_17_9_20,BC,B,U,Player is grabbed
+4,14,10,,4,14,20,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,14,38,,4,14,45,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,15,3,,4,15,11,,SL2 TD_17_9_20,NC,,,Player runs with no contact
+4,15,28,,4,15,38,,SL2 TD_17_9_20,SL,,,Player watches drills
+4,15,55,,4,16,7,,SL2 TD_17_9_20,NC,,,Player runs with no contact

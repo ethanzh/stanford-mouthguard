@@ -1,0 +1,12 @@
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
+,,,,,,,,SL2 TD_11_28,,,,
+,,,,5,41,3,,,NC,,,
+5,41,3,,5,41,5,,,B,U,B,
+5,41,5,,5,41,59,,,NC,,,
+5,41,59,,5,42,2,,,B,U,B,
+5,42,2,,5,56,21,,,NC,,,
+5,56,21,,5,56,23,,,B,U,B,
+5,56,23,,,,,,,,,,
+,,,,^ on second thought this is probably #79 not #75....,,,,,,,,
+^ on second thought this is probably #79 not #75....,,,,,,,,,,,,

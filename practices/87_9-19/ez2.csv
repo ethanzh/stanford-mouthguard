@@ -1,0 +1,91 @@
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
+4,5,19,,4,5,28,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,5,29,,4,5,31,,EZ2 JG_17_9_19,BC,U,U,Players Grappling
+4,6,0,,4,6,6,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,6,7,,4,6,8,,EZ2 JG_17_9_19,BC,B,B,Players body check each other
+4,6,41,,4,6,47,,EZ2 JG_17_9_19,NC,,,player prepares for play
+4,6,48,,4,6,50,,EZ2 JG_17_9_19,BC,B,U,Player is shoved
+4,7,25,,4,7,33,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,7,34,,4,7,36,,EZ2 JG_17_9_19,BC,B,U,Players Grapple
+4,7,34,,4,7,35,,EZ2 JG_17_9_19,HC,HF,H,Player hit in chin
+4,8,9,,4,8,21,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,8,22,,4,8,24,,EZ2 JG_17_9_19,BC,B,U,Player is grabbed
+4,8,46,,4,8,50,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,8,51,,4,8,53,,EZ2 JG_17_9_19,BC,B,B,Player is tackling another
+4,8,51,,4,8,52,,EZ2 JG_17_9_19,HC,,,Players heads bash
+4,9,27,,4,9,35,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,9,36,,4,9,37,,EZ2 JG_17_9_19,BC,U,B,Light grappling
+4,10,16,,4,12,25,,EZ2 JG_17_9_19,NA,,,Player not in view
+4,12,39,,4,12,40,,EZ2 JG_17_9_19,BC,U,B,Light tackle
+4,13,5,,4,13,8,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,13,8,,4,13,9,,EZ2 JG_17_9_19,BC,U,B,Light tackle & grapple
+4,13,39,,4,14,17,,EZ2 JG_17_9_19,NC,,,Player stands ready but no contact
+4,14,37,,4,30,17,,EZ2 JG_17_9_19,NA,,,Opposing team does drills
+4,30,18,,4,33,25,,EZ2 JG_17_9_19,SL,,,Opposing team continues drills
+4,33,26,,4,33,30,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,33,31,,4,33,34,,EZ2 JG_17_9_19,BC,U,B,Player tackles opponent
+4,33,32,,4,33,33,,EZ2 JG_17_9_19,HC,HF,B,Players helmets bang
+4,33,45,,4,34,57,,EZ2 JG_17_9_19,SL,,,Player waits for drills
+4,34,58,,4,34,7,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,34,8,,4,34,10,,EZ2 JG_17_9_19,BC,U,B,Player grapples with opponent
+4,34,9,,4,34,10,,EZ2 JG_17_9_19,HC,HF,B,Player dives to stop opponent from reaching passer
+4,34,16,,4,53,24,,EZ2 JG_17_9_19,SL,,,Player watches drills
+4,53,25,,4,53,28,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,53,28,,4,53,30,,EZ2 JG_17_9_19,BC,U,U,Players grapple
+4,53,57,,4,54,25,,EZ2 JG_17_9_19,SL,,,Player continues watching
+4,54,26,,4,54,29,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,54,29,,4,54,31,,EZ2 JG_17_9_19,BC,U,B,Players grapple
+4,54,54,,4,55,22,,EZ2 JG_17_9_19,SL,,,Player watches plays
+4,55,23,,4,55,24,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,55,25,,4,55,27,,EZ2 JG_17_9_19,BC,U,U,Light arm contact
+4,55,53,,4,56,30,,EZ2 JG_17_9_19,SL,,,Player continues watching
+4,56,30,,4,56,31,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,56,32,,4,56,37,,EZ2 JG_17_9_19,BC,U,U,Players shove back and forth
+4,56,58,,4,57,25,,EZ2 JG_17_9_19,SL,,,Player continues watching
+4,57,26,,4,57,36,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,57,37,,4,57,40,,EZ2 JG_17_9_19,BC,B,U,Player is shoved backwards
+4,58,4,,4,58,5,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,58,5,,4,58,7,,EZ2 JG_17_9_19,BC,B,B,Player dashes into 2 other players
+4,58,5,,4,58,6,,EZ2 JG_17_9_19,HC,HS,HF,Player dashes into 2 other players
+4,58,30,,4,59,2,,EZ2 JG_17_9_19,SL,,,Player continues watching
+4,59,3,,4,59,8,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+4,59,9,,4,59,13,,EZ2 JG_17_9_19,BC,U,B,Light grappling
+4,59,45,,5,0,10,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,0,11,,5,1,20,,EZ2 JG_17_9_19,NC,,,Player runs with no contact
+5,1,21,,5,1,52,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,1,53,,5,1,57,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,1,58,,5,2,1,,EZ2 JG_17_9_19,BC,U,B,Players grapple
+5,2,28,,5,3,0,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,3,1,,5,3,10,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,3,10,,5,3,11,,EZ2 JG_17_9_19,BC,B,B,Players tackle each other
+5,3,36,,5,4,11,,EZ2 JG_17_9_19,NC,,,Player runs with no contact
+5,4,11,,5,5,59,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,6,0,,5,6,11,,EZ2 JG_17_9_19,NC,,,Player runs with no contact
+5,6,31,,5,6,42,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,6,43,,5,6,44,,EZ2 JG_17_9_19,NV,B,U,"Player runs offscreen, but grapples with another player"
+5,7,14,,5,9,0,,EZ2 JG_17_9_19,SL,,,Player watches plays
+5,9,1,,5,18,45,,EZ2 JG_17_9_19,NV,,,Video cuts to long view
+5,18,45,,5,18,52,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,18,52,,5,18,54,,EZ2 JG_17_9_19,BC,U,U,Players grapple
+5,19,15,,5,19,51,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,19,52,,5,20,30,,EZ2 JG_17_9_19,NC,,,Player runs but no contact
+5,20,30,,5,22,12,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,22,12,,5,22,16,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,22,17,,5,22,19,,EZ2 JG_17_9_19,BC,U,U,Players grapple
+5,22,42,,5,22,51,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,22,51,,5,22,53,,EZ2 JG_17_9_19,BC,U,U,Players grapple
+5,23,20,,5,23,24,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,23,24,,5,23,27,,EZ2 JG_17_9_19,BC,U,U,Players grapple
+5,23,54,,5,24,23,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,24,24,,5,24,36,,EZ2 JG_17_9_19,NC,,,Player runs with no contact
+5,24,57,,5,25,30,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,25,30,,5,25,38,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,25,38,,5,25,41,,EZ2 JG_17_9_19,BC,B,B,Players grapple and tackle each other
+5,26,4,,5,26,42,,EZ2 JG_17_9_19,SL,,,Player continues watching
+5,26,42,,5,26,52,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,26,52,,5,26,56,,EZ2 JG_17_9_19,BC,B,B,Pig Pile
+5,27,19,,5,27,50,,EZ2 JG_17_9_19,NC,,,Player runs with no contact
+5,27,52,,5,28,1,,EZ2 JG_17_9_19,NC,,,Player prepares for play
+5,28,2,,5,28,3,,EZ2 JG_17_9_19,BC,U,B,Players shove back and forth
+5,28,27,,5,28,33,,EZ2 JG_17_9_19,NV,,,Players do not show numbers

@@ -1,0 +1,38 @@
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
+3,37,57,,3,42,26,,EZ1 MD_17_9_20,NC,,,Players do drills
+3,42,26,,3,43,3,,EZ1 MD_17_9_20,SL,,,Player watches drills
+3,43,3,,3,43,14,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+3,43,14,,3,43,16,,EZ1 MD_17_9_20,BC,U,U,Players grapple
+3,43,43,,3,44,45,,EZ1 MD_17_9_20,NC,,,Player runs with no contact
+3,44,45,,3,44,46,,EZ1 MD_17_9_20,BC,U,U,Players grapple
+3,45,13,,3,45,57,,EZ1 MD_17_9_20,NC,,,Player runs with no contact
+3,45,57,,3,45,59,,EZ1 MD_17_9_20,BC,U,U,Players grapple
+3,46,28,,3,46,56,,EZ1 MD_17_9_20,NC,,,Player runs with no contact
+3,48,8,,4,25,30,,EZ1 MD_17_9_20,SL,,,Player watches drills
+4,25,36,,4,30,16,,EZ1 MD_17_9_20,NC,,,Player runs with light/no contact
+4,30,16,,4,30,18,,EZ1 MD_17_9_20,BC,B,B,Players tackle
+4,30,47,,4,32,7,,EZ1 MD_17_9_20,SL,,,Player watches drills
+4,32,7,,4,33,46,,EZ1 MD_17_9_20,NC,,,Player runs with no contact
+4,37,15,,4,48,14,,EZ1 MD_17_9_20,SL,,,Player watches drills
+4,48,14,,4,48,15,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+4,48,15,,4,48,17,,EZ1 MD_17_9_20,BC,B,B,Pig pile
+4,48,15,,4,48,17,,EZ1 MD_17_9_20,HC,H,B,Severe pig pile
+4,48,46,,4,48,57,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+4,48,57,,4,48,59,,EZ1 MD_17_9_20,BC,B,U,Player is shoved
+4,49,37,,4,49,46,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+4,49,46,,4,49,47,,EZ1 MD_17_9_20,BC,B,B,Player is shoved
+4,50,18,,4,52,18,,EZ1 MD_17_9_20,SL,,,Player watches drills
+4,53,23,,5,8,50,,EZ1 MD_17_9_20,SL/NV,,,Player is watchng drills/playing on other field
+5,8,50,,5,9,9,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+5,9,10,,5,10,11,,EZ1 MD_17_9_20,BC,B,U,Player is tackled
+5,9,10,,5,10,11,,EZ1 MD_17_9_20,HC,U,U,Players bang heads
+5,9,47,,5,11,5,,EZ1 MD_17_9_20,SL,,,Player watches drills
+5,11,5,,5,14,3,,EZ1 MD_17_9_20,NC,,,Player runs with no/little contact
+5,14,3,,5,14,6,,EZ1 MD_17_9_20,BC,U,U,Players grapple
+5,14,39,,5,15,33,,EZ1 MD_17_9_20,SL,,,Player watches drills
+5,15,33,,5,15,54,,EZ1 MD_17_9_20,NC,,,Player prepares for play
+5,15,54,,5,15,55,,EZ1 MD_17_9_20,BC,B,U,Player is shoved
+5,16,22,,5,17,4,,EZ1 MD_17_9_20,SL,,,Player watches drills
+5,17,4,,5,17,14,,EZ1 MD_17_9_20,NC,,,Player runs with no contact
+5,17,41,,5,28,49,,EZ1 MD_17_9_20,SL/NV,,,Player is watchng drills/playing on other field

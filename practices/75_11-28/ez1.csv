@@ -1,9 +1,9 @@
 Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas)
 Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,
 ,,,,,,,,EZ1 MD_11_28,,,,
-,,,,5,27,36,,,NC,,,
-5,27,36,,5,27,37,,,HC,HS,HS,
-5,27,37,,5,28,36,,,NC,,,
+,,,,5,27,36,,EZ1 MD_11_28,NC,,,
+5,27,36,,5,27,37,,EZ1 MD_11_28,HC,HS,HS,
+5,27,37,,5,28,36,,EZ1 MD_11_28,NC,,,
 5,28,36,,5,28,37,,,HC,HT,HF,
 5,28,37,,5,30,26,,,NC,,,
 5,30,26,,5,30,27,,,HC,HS,HS,
