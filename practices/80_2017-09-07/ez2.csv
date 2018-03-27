@@ -1,0 +1,52 @@
+,,,,,,,,,,,,,
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas),
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,,
+4,56,23,,5,1,8,,EZ2 JG_11_7.mp4,SL,,,Player standing and preparing for play,
+5,1,57,,5,16,54,,EZ2 JG_11_7.mp4,NA,,,Player not in view,
+5,18,10,,5,21,40,,,NA,,,Player not in view,
+5,21,41,,5,23,41,,,SL,,,Player standing on the side,
+5,23,42,,5,54,21,,,NA,,,Player not in view,
+5,54,22,,5,54,31,,,NC,,,Player running and doing drills,
+5,54,51,,5,5,1,,,NC,,,Player setting up for play,
+5,55,5,,5,55,7,,,BC,B,B,player grapples with opposing player ,0
+5,55,40,,5,55,49,,,NC,,,Player setting up for play,
+5,55,50,,5,55,51,,,BC,U,B,Player pushes opposing player away,0
+5,55,56,,5,56,43,,,NC,,,Player setting up for play,
+5,56,43,,5,56,43,,,HC,HF,HF,Player grapples with opposing player and helmets contact,1
+5,58,28,,5,58,33,,,NC,,,Player setting up for play,
+5,58,33,,5,58,35,,,BC,B,B,player grapples with opposing player ,0
+5,59,31,,5,59,38,,,NC,,,Player setting up for play,
+5,59,40,,5,59,40,,,BC,U,B,Player pushes opposing player away,0
+6,0,39,,6,0,40,,,BC,U,B,Player grapples with opposing player,0
+6,1,30,,6,1,31,,,BC,U,B,Player pushes opposing player away,0
+6,2,8,,6,2,8,,,HC,HF,HF,Player grapples with opposing player and helmets contact,1
+6,2,49,,6,2,51,,,BC,U,B,Player grapples with opposing player,0
+6,2,51,,6,3,4,,,NC,,,Player exits view,
+6,4,30,,6,19,14,,,NA,,,Player not in view,
+end of video,,,,,,,,,,,,,0.4409585518
+,,,,,,,,,,,,,0.2222222222
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+END OF VIDEO,,,,,,,,,,,,,

@@ -1,0 +1,58 @@
+ ,,,,,,,,,,,,,
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas),
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,,
+4,47,4,,5,24,57,,,NA,,,Player not in view,
+5,24,58,,5,25,5,,,NC,,,Player preparing for play,0
+5,25,5,,5,25,46,,,NC,,,Player running,
+5,25,49,,5,27,24,,,NA,,,Player not in view,
+5,27,25,,5,46,5,,,NA,,,Player not in view,
+5,46,5,,5,46,45,,,NC,,,Player setting up for play,
+5,46,45,,5,46,47,,,BC,B,PU,Player shoved by two opposing players,0
+5,46,47,,5,47,5,,,NC,,,Player setting up for play,
+5,47,5,,5,47,6,,,HC,HF,HF,Player charges into another player direct cotnact,1
+5,47,6,,5,47,41,,,NC,,,Player setting up for play,
+5,47,41,,5,47,42,,,BC,B,PL,Player runs into group of other players,1
+5,47,42,,5,47,42,,,HC,HR,PL,Player falls backwards and hits leg of another player,
+5,47,42,,5,49,2,,,NC,,,Player setting up for play,
+5,49,2,,5,49,3,,,HC,HF,HF,Opposing player grabs and headbuts player,1
+5,49,3,,5,49,45,,,NC,,,Player setting up for play,
+5,49,45,,5,49,46,,,HC,HF,HF,Opposing player grabs and headbuts player,1
+5,49,46,,5,50,15,,,NV,,,Player not in view,
+5,50,18,,5,50,19,,,BC,B,B,Player puhes opposing player with shoulder,0
+5,50,19,,5,53,13,,,NC,,,Player setting up for play,
+5,53,13,,5,53,14,,,HC,HF,HF,Player pushing opposing player and bumps head slightly,1
+5,53,14,,5,53,17,,,BC,B,PU,Player shoved by opposing player,
+5,58,41,,5,59,4,,,NC,,,Player setting up for play,0
+5,59,4,,5,59,6,,,BC,B,PU,Player grappling with opposing player,
+5,59,6,,5,59,50,,,NC,,,Player setting up for play,0
+5,59,50,,5,59,51,,,BC,B,PU,Player shoved by opposing player,
+6,0,41,,6,0,41,,,NV,,,Possible contact but poor video quality prevents analysis,
+6,0,41,,6,2,33,,,,,,Player setting up for play,
+6,2,33,,6,2,34,,,BC,B,PU,Player grappling with opposing player,0
+6,3,37,,6,3,39,,,NV,,,Possible contact but poor video quality prevents analysis,
+6,4,37,,6,4,38,,,BC,B,PU,Player grappling with opposing player,0
+6,5,29,,6,5,31,,,BC,B,PU,Player grappling with opposing player,0
+6,6,5,,6,6,6,,,BC,B,B,Player charges into another player with shoulder,0
+6,8,29,,6,8,32,,,SL,,,"Player takes off helmet and drinks water, could have taken off mouthguard",
+6,13,13,,6,13,15,,,BC,B,PU,Player grappling with opposing player,0
+6,13,56,,6,13,57,,,HC,"HS, HM",PU,Opposing player grabs player helmet with two hands then hits helmet,1
+6,15,47,,6,15,48,,,BC,B,PU,Player grappling with opposing player,0
+6,16,31,,6,16,31,,,HC,HF,HF,"Player charges into opposing player, helmet contact",
+6,17,18,,6,17,18,,,HC,HF,HF,"Player charges into opposing player, helmet contact",0
+6,17,18,,6,19,38,,,NC,,,Player setting up for play,
+6,19,38,,6,19,41,,,BC,PU,B,Player pushes opposing player for a few seconds,0
+6,19,41,,6,20,21,,,NC,,,Player setting up for play,
+6,20,21,,6,20,21,,,HC,HF,HF,Player headbuts another player,1
+6,20,21,,6,22,0,,,NC,,,Player setting up for play,
+6,22,0,,6,22,0,,,HC,HF,HF,Player charges into another player with head,1
+6,23,0,,6,23,1,,,BC,PU,B,Player charges into another player with shoulder,0
+END OF VIDEO,,,,,,,,,,,,,0.4923659639
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,0.3636363636
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+END OF VIDEO,,,,,,,,,,,,,

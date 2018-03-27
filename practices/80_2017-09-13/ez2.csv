@@ -1,0 +1,46 @@
+ ,,,,,,,,,,,,,
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas),
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,,
+5,21,6,,5,21,32,,,SL,,,Player standing by,
+5,21,54,,5,22,45,,,NV,,,Player not in view,
+5,22,45,,5,23,19,,,SL,,,Player standing by,
+5,23,19,,5,24,16,,,NV,,,Player not in view,
+5,24,16,,5,25,53,,,SL,,,Player standing by,
+5,25,53,,5,16,2,,,NV,,,Player not in view,
+5,26,2,,5,26,11,,,NC,,,Player running,
+5,26,11,,6,4,9,,,NV,,,Player not in view,
+6,4,9,,6,4,23,,,NC,,,Player setting up for play,
+6,4,25,,6,4,26,,,BC,B,U,Opposing player grabs players shoulder as player catches ball,0
+6,5,6,,6,5,12,,,NC,,,Player setting up for play,
+6,5,13,,6,5,16,,,BC,U,B,Player shoves opposing player,
+6,5,17,,6,5,17,,,HC,H,U,Player reaches up to readjust helmet or mouthguard,1
+6,5,50,,6,5,55,,,NC,,,Player setting up for play,
+6,5,57,,6,6,1,,,BC,B,U,Player gets shoved by opposing player,0
+6,6,43,,6,7,4,,,NC,,,Player setting up for play,0
+6,7,4,,6,7,6,,,BC,B,U,Player grapples with opposing player,
+6,7,36,,6,7,49,,,NV,,,"Player runs out of camera range during play, unknown if contact present",
+6,7,49,,6,10,33,,,NV,,,Player not in view,
+6,10,33,,6,10,36,,,NC,,,Player setting up for play,
+6,10,36,,6,10,39,,,NC,,,Player running and dogging opposing players,0
+6,10,39,,6,25,35,,,NV,,,Player not in view,
+6,25,35,,6,25,38,,,NC,,,Player setting up for play,
+6,25,38,,6,25,46,,,NC,,,Player running,0
+6,25,56,,6,25,3,,,NC,,,Player setting up for play,
+6,25,3,,6,25,8,,,NC,,,Player running,0
+6,26,15,,6,26,21,,,NC,,,Player setting up for play,
+6,26,21,,6,26,26,,,BC,B,U,Player grapples with opposing player,0
+6,26,34,,6,27,10,,,NC,,,Player setting up for play,
+6,27,10,,6,28,37,,,NV,,,Player not in view,0
+END OF VIDEO,,,,,,,,,,,,,0.3333333333
+,,,,,,,,,,,,,0.1111111111
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+END OF VIDEO,,,,,,,,,,,,,

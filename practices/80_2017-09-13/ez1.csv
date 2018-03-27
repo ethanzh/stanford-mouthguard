@@ -1,0 +1,49 @@
+,,,,,,,,,,,,,
+Event Start,,,,Event End,,,,Video File of Timestamp,Event Label,Contacting Object,Opposing object,Comments (Do not use commas),
+Hr,Min,Sec,Frame,Hr,Min,Sec,Frame,Filename of video used for event time,,,,,
+5,21,10,,5,21,54,,,SL,,,Player standing by,
+5,21,57,,5,22,3,,,NC,,,Player setting up for play,
+5,22,3,,5,22,5,,,BC,B,B,Player grapples with opposing player,
+5,22,11,,5,22,11,,,HC,HF,U,"Player reaches up to helmet, readjusting helmet or mouthguard",1
+5,22,44,,5,26,12,,,SL,,,Player standing by,
+5,26,13,,5,42,27,,,NA,,,Opposing players doing drills,
+5,42,27,,5,50,58,,,NA,,,Player is not in view,
+5,50,58,,5,51,22,,,NA,,,Opposing players doing drills,
+5,52,29,,5,53,38,,,SL,,,Player standing by,
+5,53,39,,5,53,44,,,NC,,,Player running,0
+5,33,44,,5,55,36,,,NA,,,Player is not in view,
+5,55,36,,5,55,41,,,NC,,,Player running,0
+5,57,39,,5,57,42,,,NC,,,Player running,0
+5,57,42,,5,59,33,,,SL,,,Player standing by,
+5,59,30,,5,59,35,,,NC,,,Player setting up for play,
+5,59,37,,5,59,39,,,BC,U,B,Player pushes opposing player,0
+5,59,39,,6,25,58,,,NA,,,Player is not in view,
+6,26,5,,6,26,6,,,NC,,,Player running,
+6,26,11,,6,26,18,,,NC,,,Player setting up for play,0
+6,26,21,,6,26,24,,,BC,U,B,Player grapples with opposing player,0
+6,26,27,,6,26,28,,,HC,U,H,Player readjusts mouthguard,1
+6,26,28,,6,28,9,,,NA,,,Player is not in view,
+6,28,9,,6,28,38,,,SL,,,Player standing by,0.4629100499
+END OF VIDEO,,,,,,,,,,,,,0.25
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+END OF VIDEO,,,,,,,,,,,,,
